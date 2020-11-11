@@ -16,3 +16,15 @@ bin-release/
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
+
+.ipynb_checkpoints/
+biostat-simplified/
+bootstrap/
+correlation/
+in/
+p-value evaluating/
+Adds.txt
+Analysis cheat sheet - Jupyter Notebook.pdf
+Analysis cheat sheet.py
+test.py
+The 3 sigms rule.JPG
